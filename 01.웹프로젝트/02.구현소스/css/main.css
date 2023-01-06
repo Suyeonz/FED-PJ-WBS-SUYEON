@@ -5,6 +5,8 @@
 @import url(core.css);
 
 body{
+  /* 영역표시 */
+  outline: 1px dotted red;
   background-color: #fff;
 }
 
