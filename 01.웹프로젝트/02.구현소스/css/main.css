@@ -4,9 +4,12 @@
 @import url(common.css);
 @import url(core.css);
 
-body{
-  /* 영역표시 */
+/* 영역표시 */
+body *{
   outline: 1px dotted red;
+}
+
+body{
   background-color: #fff;
 }
 
