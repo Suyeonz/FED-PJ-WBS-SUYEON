@@ -12,19 +12,3 @@ body *{
 body{
   background-color: #fff;
 }
-
-/* 메인영역 */
-.breeds_box{
-  width: 90%;
-  margin: 0 auto;
-}
-
-.breeds_small_box{
-  float: left;
-  width: 24%;
-  margin: 0 .5%;
-}
-
-.breeds_small_box > img{
-  width: 100%;
-}
